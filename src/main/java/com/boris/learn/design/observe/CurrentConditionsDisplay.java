@@ -1,4 +1,4 @@
-package com.boris.learn.design.decorate;
+package com.boris.learn.design.observe;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
     private float temperature;

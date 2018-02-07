@@ -1,4 +1,4 @@
-package com.boris.learn.design.decorate;
+package com.boris.learn.design.observe;
 
 public interface Subject {
     //订阅

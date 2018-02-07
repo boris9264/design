@@ -1,4 +1,4 @@
-package com.boris.learn.design.decorate;
+package com.boris.learn.design.observe;
 
 public class Run {
     public static void main(String[] args) {
