@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/boris9264/concurrent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bo.xue@code.bkjk-inc.com/scm/h-crm/crm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\work\testspace\concurrent" />
+    <option name="cloneParentDir" value="D:\work\idea_space\crm" />
   </component>
 </application>
